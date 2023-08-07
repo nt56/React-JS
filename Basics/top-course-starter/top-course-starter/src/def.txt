@@ -1,0 +1,2 @@
+if you want to perform some addition things after the normal execution flow
+that addition task known as 'side effect'....by handling that side effect is called ass 'use Effect'
